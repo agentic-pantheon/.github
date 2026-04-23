@@ -1,6 +1,8 @@
-## Agentic Pantheon
+<img width="1000" height="1000" alt="agentic-p-logo-2" src="https://github.com/user-attachments/assets/3bac9141-29d6-48fe-9633-0a398bcfb7cb" />
 
-Open Source Multi-Agents
+# Agentic Pantheon
+
+## Open Source Multi-Agents Sytems
 
 <!--
 
