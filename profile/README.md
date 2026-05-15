@@ -4,7 +4,7 @@
 
 # Agentic Pantheon
 
-[Agentic Pantheon](agentic-pantheon.com) is an open source organization where people build reliable AI multi-agent systems.
+[Agentic Pantheon](https://agentic-pantheon.com) is an open source organization where people build reliable AI multi-agent systems.
 
 ## Products
 Here a list of the first products made within Agentic Pantheon:
